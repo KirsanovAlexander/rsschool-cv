@@ -31,4 +31,6 @@ I believe that in this course I will learn a lot of new things for myself and be
 ## Languages:
 
 - English - level Pre-intermediate
+- ![alt text](https://psv4.userapi.com/c237231/u269252956/docs/d59/82d6d2b049c6/Test.png?extra=S82uIBYrozUcrwlmyE9cepprcn5iXnCO8qH4UggBi8YUQHWdzH8idmUqIcSKEVIVpC_TnUz_t4fr22Echz5x11WZJNsssjRbQpj3ERQvvgcOYh2qzFivC3Bll9htyz1z43EkUj9guDqAu6AArIxBBVsB-Q)
+- ![alt text](https://psv4.userapi.com/c237131/u269252956/docs/d42/ce6de320a882/Test1.png?extra=_GmtxX8lFlhbMeDZkt41dOj0WDVwdF4zcxsVz7tJwkyqom9bNM1tJZLsMxSr_pdRadtvuKJTin-Qdgxy3ZD2sOWd8Ytbq8exsSnD_4KbSq8GqMJY2eI7f4QcZ_XlVpzcE4SPvTmEFb3TZ7kC6CdGs5GeVA)
 - Russian - Native
